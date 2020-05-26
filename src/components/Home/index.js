@@ -8,7 +8,7 @@ const Home = () => {
         <HomeSection>
             <div className="container">
                 <HomeInformation>
-                    <HomeTitle className="margin-bottom">Hamza Nabil</HomeTitle>
+                    <HomeTitle className="margin-bottom">Ali Maihoob</HomeTitle>
                     <HomeInfo>Creative Director</HomeInfo>
                     <HomeDesc>
                         Iam a professional <Span>UX Designer</Span> and Front-End Developer creating modern and resposive designs to Web and Mobile. Let us work together. Thank you. 
