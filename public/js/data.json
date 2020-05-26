@@ -1,0 +1,110 @@
+{
+    "works" : [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit "
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit "
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit lorem ispum dolor sit amit "
+        }
+    ],
+    
+    "portfolio" : [
+        {
+            "id": 1,
+            "image": "/images/portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/portfolio/portfolio-img7.jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/portfolio/portfolio-img8.jpg"
+        }
+    ],
+    "profile": {
+        "name": "Ali Maihoob",
+        "birthday": "23/12/1994",
+        "address": "Syria , Tartous",
+        "phone": "0936901984",
+        "email": "alimaihoob.work@gmail.com",
+        "website": "www.alimaihoob.com",
+        "skills": [
+            {
+                "id": 1,
+                "name": "Bootstrap",
+                "value": "80"
+            },
+            {
+                "id": 2,
+                "name": "CSS#",
+                "value": "50"
+            },
+            {
+                "id": 3,
+                "name": "Photoshop",
+                "value": "70"
+            },
+            {
+                "id": 4,
+                "name": "React",
+                "value": "45"
+            }
+        ]
+    },
+    "social": [
+        {
+            "id": 1,
+            "icon": "icon fa fa-facebook fa-lg",
+            "title": "Follow Me on",
+            "body": "Social Facebook",
+            "name" : "facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icon fa fa-twitter fa-lg",
+            "title": "Tweet Me on",
+            "body": "Social Twitter",
+            "name" : "twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icon fa fa-pinterest fa-lg",
+            "title": "Pin Me on",
+            "body": "Social Pinterest",
+            "name" : "pin"
+        }
+    ]
+}
